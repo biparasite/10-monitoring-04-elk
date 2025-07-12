@@ -56,7 +56,7 @@ Filebeat следует сконфигурировать для отправки
 
 <details> <summary>скриншот интерфейса kibana</summary>
 
-![web](https://github.com/biparasite/10-monitoring-04-elk/blob/main/task_7.2.png "web")
+![web](https://github.com/biparasite/10-monitoring-04-elk/blob/main/task_1.2.png "web")
 
 </details>
 
